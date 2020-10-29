@@ -9,5 +9,8 @@
   },
   "keywords": [],
   "author": "TheEVolk",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^13.13.0"
+  }
 }
